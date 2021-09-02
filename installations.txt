@@ -1,4 +1,4 @@
-npm i react-native-screens @react-navigation/native @react-navigation/stack @react-native-community/masked-view react-native-gesture-handler
+npm i react-native-screens @react-navigation/native @react-navigation/stack @react-native-community/masked-view react-native-gesture-handler react-native-router-flux
 expo install firebase
 import firebase from 'firebase/app'
 
